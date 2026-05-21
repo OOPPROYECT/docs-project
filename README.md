@@ -20,3 +20,8 @@ En esta organización encontrará de forma detallada los códigos utilizados, as
 
 POO - Project
 
+Landing page educativa desarrollada con CSS,JAVA SCRIPT,INDEX
+
+Funcional - Project
+
+Sistema funcional de tienda desarrollada en Java
